@@ -6,7 +6,8 @@ import java.util.Scanner;
 public class CollOne {
 public static void main(String[] args) {
 
-        ArrayList<String> students=new ArrayList<String>();
+    
+        ArrayList<String> students=new ArrayList();
         
         Scanner sc=new Scanner(System.in);
         
